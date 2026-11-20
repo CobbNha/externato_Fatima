@@ -22,7 +22,7 @@ export const activities: Activity[] = [
     subtitle: 'Cultura e expressão',
     description:
       'Um espaço para explorar ritmos, desenvolver a expressão artística e valorizar a criatividade dos alunos.',
-    image: '/images/galeria/actividade-cultural.jpg',
+    image: '/images/galeria/danca-tradicional.jpg',
     icon: 'music',
     accent: 'orange',
   },
@@ -31,7 +31,7 @@ export const activities: Activity[] = [
     subtitle: 'Imaginação e comunicação',
     description:
       'Estimula a comunicação, a confiança, a colaboração e a capacidade de contar histórias.',
-    image: '/images/galeria/apresentacao-artistica.jpg',
+    image: '/images/galeria/teatro-trajes.jpg',
     icon: 'drama',
     accent: 'purple',
   },
@@ -56,12 +56,12 @@ export const activities: Activity[] = [
 ]
 
 export const gallery = [
-  { src: '/images/galeria/laboratorio-informatica.jpg', alt: 'Espaço de informática do Externato Fátima', label: 'Informática' },
-  { src: '/images/galeria/sala-de-aula.jpg', alt: 'Sala de aula', label: 'Ambiente de aprendizagem' },
-  { src: '/images/galeria/actividade-cultural.jpg', alt: 'Actividade cultural dos alunos', label: 'Cultura' },
-  { src: '/images/galeria/xadrez.jpg', alt: 'Aluno numa actividade de xadrez', label: 'Xadrez' },
+  { src: '/images/galeria/coral-festival-africano.jpg', alt: 'Coral de alunos e professores com trajes africanos no festival cultural', label: 'Festival cultural' },
+  { src: '/images/galeria/teatro-trajes.jpg', alt: 'Dois alunos com trajes de teatro, um deles com coroa dourada', label: 'Teatro' },
+  { src: '/images/galeria/xadrez.jpg', alt: 'Alunos a jogar xadrez', label: 'Xadrez' },
   { src: '/images/galeria/bale.jpg', alt: 'Alunas numa actividade de balé', label: 'Balé' },
-  { src: '/images/galeria/premiacao.jpg', alt: 'Medalhas de participação e premiação', label: 'Conquistas' },
-  { src: '/images/galeria/desporto.jpg', alt: 'Actividade desportiva escolar', label: 'Desporto' },
-  { src: '/images/galeria/apresentacao-artistica.jpg', alt: 'Apresentação artística', label: 'Expressão artística' },
+  { src: '/images/galeria/desporto.jpg', alt: 'Alunos a jogar futebol no recinto escolar', label: 'Desporto' },
+  { src: '/images/galeria/professores-danca.jpg', alt: 'Professores a dançar durante a celebração cultural', label: 'Professores em festa' },
+  { src: '/images/galeria/danca-tradicional.jpg', alt: 'Alunas a apresentar uma dança tradicional', label: 'Dança' },
+  { src: '/images/galeria/laboratorio-informatica.jpg', alt: 'Alunos no laboratório de informática', label: 'Informática' },
 ]
